@@ -1,0 +1,40 @@
+body{
+  background-color:chartreuse;
+}
+
+#BML{
+  text-align: center;
+  text-color: green;
+  border-style:double;
+  background-color:bisque;
+}
+
+#adJective{
+  text-align: center;
+}
+
+#noUn{
+  text-align: center;
+}
+
+#anImal{
+  text-align: center;
+}
+
+#noIse{
+  text-align: center;
+}
+
+#myBox{
+  background-color:rgb(22, 225, 252);
+  border-style: dashed;
+}
+
+#GoStupid{
+  text-align: Center;
+}
+
+.anSwer{
+  text-align: Center;
+  font-color: blue;
+}
